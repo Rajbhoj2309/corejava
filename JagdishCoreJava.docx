@@ -117,6 +117,10 @@ Static block is executed at the time of class loading.
 In case of method overloading we can overload static methods.
 But,we cannot override static methods.
 
-
+AccessModifier:
+public:
+protected:
+private:
+default:
 
  
